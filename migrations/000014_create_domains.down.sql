@@ -1,2 +1,0 @@
-DROP TABLE IF EXISTS domain_events;
-DROP TABLE IF EXISTS domains;
