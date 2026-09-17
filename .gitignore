@@ -1,2 +1,4 @@
 bin/
 indexer/indexer
+config.bat
+node_modules
